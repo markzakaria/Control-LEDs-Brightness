@@ -3,7 +3,9 @@
 
 // LED pins
 const int ledPin1 = 5;
+
 const int ledPin2 = 4;
+
 const int ledPin3 = 15;
 
 BluetoothSerial SerialBT;
